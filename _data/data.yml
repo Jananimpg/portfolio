@@ -139,10 +139,10 @@ certifications:
       A Red Hat Certified Architect (RHCA) is the highest level of certification offered by Red Hat, a leading provider of open-source software solutions, particularly in Linux and cloud technologies. The RHCA certification demonstrates advanced expertise in designing, deploying, and managing enterprise-level systems using Red Hat technologies.
 
       Key Points About RHCA:
-        - * Expert-Level Certification: It recognizes professionals who possess in-depth knowledge and hands-on experience with Red Hat tools, including Red Hat Enterprise Linux (RHEL), OpenShift (Kubernetes), Ansible, and other Red Hat technologies.
-        - * Specialization Options: The RHCA has several specialization areas, including cloud, automation, storage, and application development. Candidates can choose specific tracks based on their expertise.
-        - * Hands-On Experience: Achieving RHCA requires passing multiple exams, demonstrating practical skills in real-world scenarios.
-        - * Leadership Role: RHCA professionals are equipped to lead and architect complex IT environments, making them highly valued in industries requiring robust, scalable, and secure open-source solutions.
+        - Expert-Level Certification: It recognizes professionals who possess in-depth knowledge and hands-on experience with Red Hat tools, including Red Hat Enterprise Linux (RHEL), OpenShift (Kubernetes), Ansible, and other Red Hat technologies.
+        - Specialization Options: The RHCA has several specialization areas, including cloud, automation, storage, and application development. Candidates can choose specific tracks based on their expertise.
+        - Hands-On Experience: Achieving RHCA requires passing multiple exams, demonstrating practical skills in real-world scenarios.
+        - Leadership Role: RHCA professionals are equipped to lead and architect complex IT environments, making them highly valued in industries requiring robust, scalable, and secure open-source solutions.
 
 
   - name: Hashicorp Terraform Associate
