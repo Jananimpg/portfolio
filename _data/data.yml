@@ -92,7 +92,7 @@ experiences:
   title: Experiences
   info:
   - role: Lead DevOps Engineer
-    time: Aug 2023 - Present
+    time: 2023 - Present
     company: AT&T, Bellevue WA
     details: |
       As a **DevOps Engineering Lead**, I oversee the design, implementation, and management of DevOps practices and infrastructure. I lead a team of engineers, collaborating with development and operations teams to streamline workflows, automate deployments, and improve system reliability. My responsibilities include implementing CI/CD pipelines, managing infrastructure as code (IaC), and optimizing cloud environments for performance and cost-efficiency. I drive the adoption of best practices in automation, monitoring, and security. As a leader, I guide technical direction, ensure efficient collaboration, and mentor junior engineers, all while contributing to business goals through improved software delivery and operational excellence.
@@ -100,9 +100,9 @@ experiences:
         - Secured cloud environments using best practices, reducing incident resolution time by 40%.
         - Automated deployment with Terraform and CloudFormation, cutting deployment time by 30% and increasing release efficiency by 45%.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Cloud Specialist (DevOps)
+    time:  2022 - 2023
+    company: CITIBANK, Dallas TX
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -113,9 +113,9 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Linux Infrastructure Lead
+    time: 2019 - 2022
+    company: Southern California Edison, Los Angeles CA
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -143,7 +143,7 @@ certifications:
         - * Specialization Options: The RHCA has several specialization areas, including cloud, automation, storage, and application development. Candidates can choose specific tracks based on their expertise.
         - * Hands-On Experience: Achieving RHCA requires passing multiple exams, demonstrating practical skills in real-world scenarios.
         - * Leadership Role: RHCA professionals are equipped to lead and architect complex IT environments, making them highly valued in industries requiring robust, scalable, and secure open-source solutions.
-        -
+
 
   - name: Hashicorp Terraform Associate
     start: 2025
