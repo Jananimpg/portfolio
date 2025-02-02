@@ -95,7 +95,7 @@ experiences:
     time: Aug 2023 - Present
     company: AT&T, Bellevue WA
     details: |
-      As a DevOps engineer, I have managed and automated the deployment and scaling of applications. Built and optimized Docker containers, configured and maintained Kubernetes clusters, to ensure high availability. Using CI/CD tools, I was able automate testing, build, and deploy pipelines. My Linux skills help me manage underlying systems, optimize resources, and secure environments. Additionally, I write scripts for task automation and work closely with developers to ensure smooth integrations. By monitoring logs, handling incidents, and optimizing resources, I was able ensure efficient, cost-effective, and reliable operations, contributing to seamless infrastructure and application performance.
+      As a **DevOps Engineering Lead**, I oversee the design, implementation, and management of DevOps practices and infrastructure. I lead a team of engineers, collaborating with development and operations teams to streamline workflows, automate deployments, and improve system reliability. My responsibilities include implementing CI/CD pipelines, managing infrastructure as code (IaC), and optimizing cloud environments for performance and cost-efficiency. I drive the adoption of best practices in automation, monitoring, and security. As a leader, I guide technical direction, ensure efficient collaboration, and mentor junior engineers, all while contributing to business goals through improved software delivery and operational excellence.
         - Managed a team of 12-engineer to improve cloud security, drive collaboration, implement best practices, and optimize infrastructure resilience and performance.
         - Secured cloud environments using best practices, reducing incident resolution time by 40%.
         - Automated deployment with Terraform and CloudFormation, cutting deployment time by 30% and increasing release efficiency by 45%.
@@ -131,7 +131,7 @@ certifications:
   - name: RedHat Certified Architect
     start: 2016
     end:
-    organization: Microsoft
+    organization: RedHat
     credentialid: 160-012-845
     credentialurl: https://rhtapps.redhat.com/verify?certId=160-012-845
     credentialname: RedHat
