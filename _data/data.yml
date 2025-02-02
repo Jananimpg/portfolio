@@ -19,12 +19,12 @@ sidebar:
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
-  xing: alandoe
+  #xing: alandoe
   github: jekyll
-  telegram: # add your nickname without '@' sign
+  #telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter: '@jekyllrb'
+  #twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,39 +42,32 @@ sidebar:
     - idiom: Tamil
       level: Native
 
-    - idiom: Spanish
-      level: Professional
+
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Kickboxing MMA
       link:
 
 
-    - item: Snowboarding
+    - item: Hiking
       link:
 
 
-    - item: Cooking
+    - item:
       link:
 
 
 career-profile:
   title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+  summary: A highly experienced Senior DevOps Engineer with 13 years of expertise in Systems Engineering and infrastructure management, specializing in cloud platforms like AWS and Azure, along with container orchestration using Kubernetes. Proven track record in automating CI/CD pipelines to streamline development cycles and enhance software delivery. Adept at deploying Infrastructure as Code (IaC) solutions using Terraform and Ansible to ensure scalable, efficient, and repeatable infrastructure provisioning. Focused on optimizing operational workflows to minimize costs while accelerating time-to-market for applications. Known for leadership in driving digital transformation, fostering innovation, and leading teams through complex, dynamic environments to achieve business goals.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelors in Electrical Engineering
+    university: Anna University
+    year: 2011
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
