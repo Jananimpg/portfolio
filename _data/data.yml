@@ -17,7 +17,7 @@ sidebar:
   phone: +1(312) 722 1230
   timezone: America/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   work status: H1 B (i140 Approved)
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: # Include the full website URL, including "http://" or "https://".
   linkedin: Jananigdara
   #xing: alandoe
   github: Jananimpg
@@ -76,9 +76,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree:
+    university:
+    time:
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
