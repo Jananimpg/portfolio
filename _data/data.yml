@@ -55,7 +55,7 @@ sidebar:
       link:
 
 
-    - item:
+    - item: Travel
       link:
 
 
@@ -91,21 +91,14 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Lead DevOps Engineer
+    time: Aug 2023 - Present
+    company: AT&T, Bellevue WA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      As a DevOps engineer with Linux, Docker, and Kubernetes experience, I have managed and automated the deployment and scaling of applications. Built and optimized Docker containers, configured and maintained Kubernetes clusters, to ensure high availability. Using CI/CD tools, I was able automate testing, build, and deploy pipelines. My Linux skills help me manage underlying systems, optimize resources, and secure environments. Additionally, I write scripts for task automation and work closely with developers to ensure smooth integrations. By monitoring logs, handling incidents, and optimizing resources, I was able ensure efficient, cost-effective, and reliable operations, contributing to seamless infrastructure and application performance.
+        - Managed a team of 12-engineer to improve cloud security, drive collaboration, implement best practices, and optimize infrastructure resilience and performance.
+        - Secured cloud environments using best practices, reducing incident resolution time by 40%.
+        - Automated deployment with Terraform and CloudFormation, cutting deployment time by 30% and increasing release efficiency by 45%.
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
@@ -115,6 +108,7 @@ experiences:
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
+        - Bullet point
         - Bullet point
         - Bullet point
   - role: UI Developer
