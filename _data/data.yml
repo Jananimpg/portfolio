@@ -134,7 +134,7 @@ certifications:
     organization: RedHat
     credentialid: 160-012-845
     credentialurl: https://rhtapps.redhat.com/verify?certId=160-012-845
-    credentialname: RedHat
+    credentialname:
     details: |
       A Red Hat Certified Architect (RHCA) is the highest level of certification offered by Red Hat, a leading provider of open-source software solutions, particularly in Linux and cloud technologies. The RHCA certification demonstrates advanced expertise in designing, deploying, and managing enterprise-level systems using Red Hat technologies.
 
