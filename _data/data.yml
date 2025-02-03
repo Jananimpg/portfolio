@@ -153,14 +153,7 @@ certifications:
     credentialurl:
     credentialname:
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      The **HashiCorp Terraform Associate** certification validates foundational skills in using Terraform for infrastructure-as-code (IaC) automation. It covers key areas like Terraform configuration, state management, modules, CLI usage, and workflow. The certification is ideal for developers, system administrators, and engineers who automate cloud infrastructure using Terraform. This certification helps demonstrate expertise in Terraform, boosting career prospects in cloud engineering, DevOps, and infrastructure management.
 
 projects:
   title: Projects
