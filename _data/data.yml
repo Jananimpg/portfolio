@@ -147,7 +147,7 @@ certifications:
     credentialurl:
     credentialname:
     details: |
-      The **HashiCorp Terraform Associate** certification validates foundational skills in using Terraform for infrastructure-as-code (IaC) automation. It covers key areas like Terraform configuration, state management, modules, CLI usage, and workflow. The certification is ideal for developers, system administrators, and engineers who automate cloud infrastructure using Terraform. This certification helps demonstrate expertise in Terraform, boosting career prospects in cloud engineering, DevOps, and infrastructure management.
+      The **HashiCorp Terraform Associate** certification validates foundational skills in using Terraform for infrastructure-as-code (IaC) automation. It covers key areas like Terraform configuration, state management, modules, CLI usage, and workflow. This certification helps demonstrate expertise in Terraform, boosting career prospects in cloud engineering, DevOps, and infrastructure management.
 
 
   - name: Azure Administrators Associate
@@ -158,6 +158,7 @@ certifications:
     credentialurl:
     credentialname:
     details: |
+      The Microsoft Certified: Azure Administrator Associate certification validates your skills in managing and maintaining Microsoft Azure cloud environments. As an Azure Administrator, you would be responsible for tasks such as managing Azure subscriptions, implementing and managing storage, configuring virtual networks, managing identities, and overseeing resource utilization.
 
 projects:
   title: Projects
@@ -251,17 +252,17 @@ skills:
   - name: Terraform
     level: 90
 
-  - name: Kubernetes & Docker
+  - name: Jenkins, Kubernetes & Docker
     level: 90
 
   - name: AWS, Azure and GCP
-    level: 95%
-
-  - name: Ruby on Rails
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Prometheus, Grafana, SonarQube
+    level: 85%
+
+  - name: RedHat Satellite, Puppet, Ansible
+    level: 95%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
