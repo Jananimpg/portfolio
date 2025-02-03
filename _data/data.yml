@@ -16,7 +16,7 @@ sidebar:
   email: jananigdara@gmail.com
   phone: +1(312) 722 1230
   timezone: America/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  work status: H1 B (i140 Approved)
+  work status: H1B (i140 Approved)
   website: # Include the full website URL, including "http://" or "https://".
   linkedin: Jananigdara
   #xing: alandoe
@@ -155,6 +155,16 @@ certifications:
     details: |
       The **HashiCorp Terraform Associate** certification validates foundational skills in using Terraform for infrastructure-as-code (IaC) automation. It covers key areas like Terraform configuration, state management, modules, CLI usage, and workflow. The certification is ideal for developers, system administrators, and engineers who automate cloud infrastructure using Terraform. This certification helps demonstrate expertise in Terraform, boosting career prospects in cloud engineering, DevOps, and infrastructure management.
 
+
+  - name: Azure Administrators Associate
+    start: 2025
+    end:
+    organization: Microsoft
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+
 projects:
   title: Projects
   intro: >
@@ -245,12 +255,12 @@ skills:
     level: 98%
 
   - name: Terraform
-    level: 98%
+    level: 90
 
   - name: Kubernetes & Docker
-    level: 98%
+    level: 90
 
-  - name: HTML5 & CSS
+  - name: AWS, Azure and GCP
     level: 95%
 
   - name: Ruby on Rails
