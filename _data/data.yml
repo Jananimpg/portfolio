@@ -50,6 +50,8 @@ sidebar:
     - item: Technology
       link:
 
+    - item: Infrastructure Automation
+      link:
 
     - item: AI applications
       link:
@@ -69,24 +71,8 @@ education:
     university: Anna University
     time: 2011
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree:
-    university:
-    time:
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Class Valedictorian honored with gold medal for academic excellence in Bachelors of Engineering
+
 
 experiences:
   title: Experiences
@@ -95,10 +81,16 @@ experiences:
     time: 2023 - Present
     company: AT&T, Bellevue WA
     details: |
-      As a **DevOps Engineering Lead**, I oversee the design, implementation, and management of DevOps practices and infrastructure. I lead a team of engineers, collaborating with development and operations teams to streamline workflows, automate deployments, and improve system reliability. My responsibilities include implementing CI/CD pipelines, managing infrastructure as code (IaC), and optimizing cloud environments for performance and cost-efficiency. I drive the adoption of best practices in automation, monitoring, and security. As a leader, I guide technical direction, ensure efficient collaboration, and mentor junior engineers, all while contributing to business goals through improved software delivery and operational excellence.
+      As a **DevOps Engineering Lead**, leveraged Microsoft’s Azure for Operators initiative to empower mobile operators in transforming their 5G networks through software-defined networking technologies. Played a key role in modernizing mobile network infrastructure by integrating cloud and edge computing, enabling operators to streamline business operations, enhance service delivery, and reduce costs. Collaborated with mobile carriers to implement Azure hybrid cloud solutions, optimizing network performance and accelerating the rollout of innovative services. Contributed to connecting intelligent edge and cloud capabilities, fostering transformative experiences across diverse industries while strengthening the partnership with operators.
+        - Implemented End to End CI/CD pipeline automation reducing the manual efforts by 40% of deployment into HPC that runs on Kubernetes and openstack.
+        - Engineered advance implementations strategies into HPC for a smoother transition and adaptation improving the release efficiency by 30%
+        - Led validation of new and upgraded instances (Greenfields/Brownfields), running comprehensive tests using the AQuA framework, and escalating defects as needed to ensure successful deployment and system integrity
+        - Collaborated with Microsoft identity stakeholders to understand business requirements and developed detailed specification and design documents, ensuring all team members were aligned on project goals and decisions
+        - Engineered migration of servers to Azure cloud, optimizing the Datacenter management cost by 50%.
+        - Implement cost effective Cloud migration plan carefully considering the security and Software development best practices.
         - Managed a team of 12-engineer to improve cloud security, drive collaboration, implement best practices, and optimize infrastructure resilience and performance.
-        - Secured cloud environments using best practices, reducing incident resolution time by 40%.
-        - Automated deployment with Terraform and CloudFormation, cutting deployment time by 30% and increasing release efficiency by 45%.
+        - Implemented cloud automation by terraform for a centralized management and version control of a complicated systems.
+
 
   - role: Cloud Specialist (DevOps)
     time:  2022 - 2023
@@ -160,7 +152,7 @@ certifications:
     details: |
       The Microsoft Certified: Azure Administrator Associate certification validates your skills in managing and maintaining Microsoft Azure cloud environments. As an Azure Administrator, you would be responsible for tasks such as managing Azure subscriptions, implementing and managing storage, configuring virtual networks, managing identities, and overseeing resource utilization.
 
-projects:
+#projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
