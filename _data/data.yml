@@ -141,7 +141,7 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: **RedHat Certified Architect**
+  - name: RedHat Certified Architect
     start: 2016
     end:
     organization: RedHat
@@ -151,7 +151,7 @@ certifications:
     details: |
       A Red Hat Certified Architect (RHCA) is the highest level of certification offered by Red Hat, a leading provider of open-source software solutions, particularly in Linux and cloud technologies. The RHCA certification demonstrates advanced expertise in designing, deploying, and managing enterprise-level systems using Red Hat technologies.
 
-  - name: **Hashicorp Terraform Associate**
+  - name: Hashicorp Terraform Associate
     start: 2025
     end:
     organization: Hashicorp
