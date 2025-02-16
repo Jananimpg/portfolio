@@ -153,6 +153,16 @@ certifications:
     details: |
       The HashiCorp Terraform Associate certification validates foundational skills in using Terraform for infrastructure-as-code (IaC) automation. It covers key areas like Terraform configuration, state management, modules, CLI usage, and workflow. This certification helps demonstrate expertise in Terraform, boosting career prospects in cloud engineering, DevOps, and infrastructure management.
 
+  - name: Azure Administrators Associate
+    start: 2025
+    end:
+    organization: Microsoft
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      The Microsoft Certified: Azure Administrator Associate certification validates your skills in managing and maintaining Microsoft Azure cloud environments. As an Azure Administrator, you would be responsible for tasks such as managing Azure subscriptions, implementing and managing storage, configuring virtual networks, managing identities, and overseeing resource utilization.
+
 #projects:
   title: Projects
   intro: >
