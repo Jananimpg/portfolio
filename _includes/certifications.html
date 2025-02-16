@@ -1,5 +1,4 @@
-{% assign certifications = site.data.data.certifications %}
-{% if certifications %}
+{% assign certifications = site.data.data.certifications %} {% if certifications %}
 <section class="section certifications-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -41,11 +40,9 @@
     <!--//meta-->
 
     <div class="details">{{ certifications.details | markdownify }}</div>
-
   </div>
   <!--//item-->
   {% endfor %}
-
 </section>
 <!--//section-->
 {% endif %}
