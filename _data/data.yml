@@ -49,15 +49,23 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Technology | Infrastructure Automation | AI Application
+    - item: Technology AI Application
       link:
 
+
+    - item: Infrastructure Automation
+      link:
+
+    - item: Kickboxing, MMA
+      link:
+
+    - item: Hiking, Travel
+      link:
 
     - item:
       link:
 
-
-    - item: Kickboxing | MMA | Hiking | Travel
+    - item:
       link:
 
 
