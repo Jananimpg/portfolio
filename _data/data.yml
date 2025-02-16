@@ -94,12 +94,7 @@ experiences:
     time: 2023 - Present
     company: AT&T (LTIMindtree), Bellevue WA
     details: |
-      As a DevOps Engineering Lead, I utilized Microsoft’s Azure for Operators initiative to help mobile
-      operators transform their 5G networks with software-defined networking. I played a key role in
-      modernizing infrastructure by integrating cloud and edge computing, optimizing operations, improving
-      service delivery, and reducing costs. Collaborating with carriers, I implemented Azure hybrid cloud
-      solutions to boost network performance and accelerate service innovation, enhancing the connection
-      between the intelligent edge and cloud. This fostered transformative experiences and strengthened partnerships with operators.
+      As a DevOps Engineering Lead, I utilized Microsoft’s Azure for Operators initiative to help mobile operators transform their 5G networks with software-defined networking. I played a key role in modernizing infrastructure by integrating cloud and edge computing, optimizing operations, improving service delivery, and reducing costs. Collaborating with carriers, I implemented Azure hybrid cloud solutions to boost network performance and accelerate service innovation, enhancing the connection between the intelligent edge and cloud. This fostered transformative experiences and strengthened partnerships with operators.
         - Implemented End to End CI/CD pipeline automation reducing the manual efforts by 40% of deployment into HPC that runs on Kubernetes and openstack.
         - Engineered advance implementations strategies into HPC for a smoother transition and adaptation improving the release efficiency by 30%
         - Led validation of new and upgraded instances (Greenfields/Brownfields), running comprehensive tests using the AQuA framework, and escalating defects as needed to ensure successful deployment and system integrity
