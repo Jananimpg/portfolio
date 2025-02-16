@@ -216,7 +216,7 @@ certifications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
+#recommendations:
   title: Recommendations
   list:
   - person: Yareli Perez
