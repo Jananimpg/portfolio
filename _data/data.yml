@@ -150,24 +150,18 @@ certifications:
     credentialname:
     details: |
       A Red Hat Certified Architect (RHCA) is the highest level of certification offered by Red Hat, a leading provider of open-source software solutions, particularly in Linux and cloud technologies. The RHCA certification demonstrates advanced expertise in designing, deploying, and managing enterprise-level systems using Red Hat technologies.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
+  - name: Hashicorp Terraform Associate
+    start: 2025
+    end:
+    organization: Hashicorp
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      The **HashiCorp Terraform Associate** certification validates foundational skills in using Terraform for infrastructure-as-code (IaC) automation. It covers key areas like Terraform configuration, state management, modules, CLI usage, and workflow. This certification helps demonstrate expertise in Terraform, boosting career prospects in cloud engineering, DevOps, and infrastructure management.
+
+#projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -192,7 +186,7 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+#oss:
   title: OSS Contributions
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -209,7 +203,7 @@ oss:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+#publications:
   title: Publications
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
@@ -253,23 +247,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python & Shell Scripting
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Terraform
+    level: 90%
 
-  - name: Angular
-    level: 98%
+  - name: Jenkins, Kubernetes & Docker
+    level: 90%
 
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: AWS, Azure and GCP
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Prometheus, Grafana, SonarQube
+    level: 85%
+
+  - name: RedHat Satellite, Puppet, Ansible
+    level: 95%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
