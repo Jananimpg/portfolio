@@ -64,56 +64,52 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Experienced Senior DevOps Engineer with over 13 years of expertise in Systems Engineering
+    and infrastructure management, specializing in cloud platforms like AWS, Azure and GCP,
+    along with container orchestration using Kubernetes. Proven track record in automating CI/CD
+    pipelines to streamline development cycles and enhance software delivery. Adept at deploying
+    Infrastructure as Code (IaC) solutions using Terraform and Ansible to ensure scalable, efficient,
+    and repeatable infrastructure provisioning. Focused on optimizing operational workflows to
+    minimize costs while accelerating time-to-market for applications. Known for leadership in
+    driving digital transformation, fostering innovation, and leading teams through complex,
+    dynamic environments to achieve business goals.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelors in Electrical Engineering
+    university: Anna University
+    time: 2011
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Class Valedictorian honored with gold medal for academic excellence in Bachelors of Engineering
+
+  - degree:
+    university:
+    time:
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Lead DevOps Engineer
+    time: 2023 - Present
+    company: AT&T (LTIMindtree), Bellevue WA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      As a DevOps Engineering Lead, I utilized Microsoft’s Azure for Operators initiative to help mobile
+      operators transform their 5G networks with software-defined networking. I played a key role in
+      modernizing infrastructure by integrating cloud and edge computing, optimizing operations, improving
+      service delivery, and reducing costs. Collaborating with carriers, I implemented Azure hybrid cloud
+      solutions to boost network performance and accelerate service innovation, enhancing the connection
+      between the intelligent edge and cloud. This fostered transformative experiences and strengthened partnerships with operators.
+        - Implemented End to End CI/CD pipeline automation reducing the manual efforts by 40% of deployment into HPC that runs on Kubernetes and openstack.
+        - Engineered advance implementations strategies into HPC for a smoother transition and adaptation improving the release efficiency by 30%
+        - Led validation of new and upgraded instances (Greenfields/Brownfields), running comprehensive tests using the AQuA framework, and escalating defects as needed to ensure successful deployment and system integrity
+        - Collaborated with Microsoft identity stakeholders to understand business requirements and developed detailed specification and design documents, ensuring all team members were aligned on project goals and decisions
+        - Engineered migration of servers to Azure cloud, optimizing the Datacenter management cost by 50%.
+        - Implement cost effective Cloud migration plan carefully considering the security and Software development best practices.
+        - Managed a team of 12-engineer to improve cloud security, drive collaboration, implement best practices, and optimize infrastructure resilience and performance.
+        - Implemented cloud automation by terraform for a centralized management and version control of a complicated systems.
+
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
