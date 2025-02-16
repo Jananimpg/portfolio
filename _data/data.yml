@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
+  position: left # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
@@ -64,15 +64,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Experienced Senior DevOps Engineer with over 13 years of expertise in Systems Engineering
-    and infrastructure management, specializing in cloud platforms like AWS, Azure and GCP,
-    along with container orchestration using Kubernetes. Proven track record in automating CI/CD
-    pipelines to streamline development cycles and enhance software delivery. Adept at deploying
-    Infrastructure as Code (IaC) solutions using Terraform and Ansible to ensure scalable, efficient,
-    and repeatable infrastructure provisioning. Focused on optimizing operational workflows to
-    minimize costs while accelerating time-to-market for applications. Known for leadership in
-    driving digital transformation, fostering innovation, and leading teams through complex,
-    dynamic environments to achieve business goals.
+    Experienced Senior DevOps Engineer with over 13 years of expertise in Systems Engineering and infrastructure management, specializing in cloud platforms like AWS, Azure and GCP, along with container orchestration using Kubernetes. Proven track record in automating CI/CD pipelines to streamline development cycles and enhance software delivery. Adept at deploying Infrastructure as Code (IaC) solutions using Terraform and Ansible to ensure scalable, efficient, and repeatable infrastructure provisioning. Focused on optimizing operational workflows to minimize costs while accelerating time-to-market for applications. Known for leadership in driving digital transformation, fostering innovation, and leading teams through complex, dynamic environments to achieve business goals.
 education:
   title: Education
   info:
@@ -110,9 +102,9 @@ experiences:
         - Managed a team of 12-engineer to improve cloud security, drive collaboration, implement best practices, and optimize infrastructure resilience and performance.
         - Implemented cloud automation by terraform for a centralized management and version control of a complicated systems.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Cloud Specialist (DevOps)
+    time: 2022 - 2023
+    company: CITIBANK (LTIMindtree), Dallas TX
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,9 +113,22 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+
+  - role: Linux Infrastructure Lead
+    time: 2019 - 2022
+    company: Southern California Edison (TCS), Los Angeles CA
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
+  - role: Linux Infrastructure Lead
+    time: 2016 - 2019
+    company: CNA Insurance (TCS), Chicago IL
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -136,27 +141,15 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: RedHat Certified Architect
+    start: 2016
+    end:
+    organization: RedHat
+    credentialid: 160-012-845
+    credentialurl: https://rhtapps.redhat.com/verify?certId=160-012-845
+    credentialname:
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      A Red Hat Certified Architect (RHCA) is the highest level of certification offered by Red Hat, a leading provider of open-source software solutions, particularly in Linux and cloud technologies. The RHCA certification demonstrates advanced expertise in designing, deploying, and managing enterprise-level systems using Red Hat technologies.
   - name: Git learning
     start: 2019
     end:
