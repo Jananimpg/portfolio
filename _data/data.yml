@@ -194,7 +194,7 @@ certifications:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
+publications:
   title: Publications
   intro: |
 
@@ -212,7 +212,7 @@ certifications:
   - title:
     link:
     authors:
-    conference: 
+    conference:
 
 #recommendations:
   title: Recommendations
