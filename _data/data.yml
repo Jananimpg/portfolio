@@ -185,7 +185,7 @@ certifications:
     details: |
       The Microsoft Certified: Azure Administrator Associate certification validates your skills in managing and maintaining Microsoft Azure cloud environments. As an Azure Administrator, you would be responsible for tasks such as managing Azure subscriptions, implementing and managing storage, configuring virtual networks, managing identities, and overseeing resource utilization.
 
-#projects:
+##projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -196,7 +196,7 @@ certifications:
 
 
 
-#oss:
+##oss:
   title: OSS Contributions
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -206,7 +206,7 @@ certifications:
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 
-publications:
+##publications:
   title: Publications
   intro: >
     You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
