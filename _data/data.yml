@@ -206,8 +206,7 @@ certifications:
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 
-#publications:
-  enabled: False
+publications:
   title: Publications
   intro: >
     You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
