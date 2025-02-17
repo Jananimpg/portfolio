@@ -95,15 +95,7 @@ experiences:
     company: AT&T (LTIMindtree), Bellevue WA
     details: |
       As a DevOps Engineering Lead, I utilized Microsoft’s Azure for Operators initiative to help mobile operators transform their 5G networks with software-defined networking. I played a key role in modernizing infrastructure by integrating cloud and edge computing, optimizing operations, improving service delivery, and reducing costs. Collaborating with carriers, I implemented Azure hybrid cloud solutions to boost network performance and accelerate service innovation, enhancing the connection between the intelligent edge and cloud. This fostered transformative experiences and strengthened partnerships with operators.
-        - Implemented End to End CI/CD pipeline automation reducing the manual efforts by 40% of deployment into HPC that runs on Kubernetes and openstack.
-        - Engineered advance implementations strategies into HPC for a smoother transition and adaptation improving the release efficiency by 30%
-        - Led validation of new and upgraded instances (Greenfields/Brownfields), running comprehensive tests using the AQuA framework, and escalating defects as needed to ensure successful deployment and system integrity
-        - Collaborated with Microsoft identity stakeholders to understand business requirements and developed detailed specification and design documents, ensuring all team members were aligned on project goals and decisions
-        - Engineered migration of servers to Azure cloud, optimizing the Datacenter management cost by 50%.
-        - Implement cost effective Cloud migration plan carefully considering the security and Software development best practices.
-        - Managed a team of 12-engineer to improve cloud security, drive collaboration, implement best practices, and optimize infrastructure resilience and performance.
-        - Implemented cloud automation by terraform for a centralized management and version control of a complicated systems.
-
+        
   - role: Cloud Specialist (DevOps)
     time: 2022 - 2023
     company: CITIBANK (LTIMindtree), Dallas TX
