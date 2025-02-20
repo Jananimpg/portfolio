@@ -116,7 +116,7 @@ experiences:
         - Architected high-availability solutions within cloud-based infrastructures, leveraging cost-analysis tools to optimize performance and reduce ongoing maintenance costs.
         - Automated Infrastructure as Code (IaC) practices for efficient management of resources in a hybrid environment, ensuring scalability, security, and operational best practices.
 
-  - role: Linux Infrastructure Lead
+  - role: Linux Cloud Engineering Lead
     time: 2019 - 2022
     company: Southern California Edison (TCS), Los Angeles CA
     details: |
@@ -153,7 +153,7 @@ experiences:
         - Linux administrator to handle L3 Tickets in EXPERTIS team
         - Impart training Linux admin to associates in TCS
         - Planning and implementing quaterly Disaster Recovery excercise.
-        - Creating document for configurations/installation process. 
+        - Creating document for configurations/installation process.
 
 certifications:
   title: Certifications
