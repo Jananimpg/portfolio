@@ -141,19 +141,19 @@ experiences:
         - Planned and Engineered Datacenter move of about 4000 servers from Chicago to Pittsburg.
         - Managed patches with satellite 5.6 for all linux servers.
         - Upgraded satellite from current 5.6 v to satellite 6.2.
-        
+
 
   - role: Linux Engineer
     time: 2012 - 2016
     company: Tata Consultancy Services (TCS), India
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      As a Linux Administrator I was part of Technology Excellence Group which was responsible for enhancing the Technology leadership position by
+      continuously improving solution delivery capability through Architectural Excellence, Technology Advisory, Partnering Program and Championing & Adopting New Technologies.
+        - Slicing the hardware and providing labs for Users for POC and learnings through products that runs on linux OS via VMWARE
+        - Linux administrator to handle L3 Tickets in EXPERTIS team
+        - Impart training Linux admin to associates in TCS
+        - Planning and implementing quaterly Disaster Recovery excercise.
+        - Creating document for configurations/installation process. 
 
 certifications:
   title: Certifications
