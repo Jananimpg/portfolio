@@ -108,13 +108,13 @@ experiences:
     time: 2022 - 2023
     company: CITIBANK (LTIMindtree), Dallas TX
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      As a Cloud Specialist at Citi Bank, I was able to deliver new products and services, and scale efficiently in the cloud. By leveraging DevOps practices and automation, the specialist ensures the bank’s infrastructure is both robust and flexible, supporting the needs of various business units while maintaining high levels of security and compliance with industry regulations. Additionally, the role directly contributes to improving operational efficiencies, reducing costs, and enhancing the overall customer experience.
+        - Implemented and deployed high-performance Version Control System (VCS) clusters using Jenkins pipelines, resulting in a 35% improvement in deployment efficiency.
+        - Automated patch compliance management using Ansible, achieving a 99% patch compliance rate, significantly enhancing system security and operational reliability.
+        - Optimized process management through ServiceNow, establishing transparency in build processes and data center maintenance, driving operational visibility and efficiency.
+        - Engineered robust password management solutions, mitigating potential security threats while ensuring full adherence to industry compliance standards.
+        - Architected high-availability solutions within cloud-based infrastructures, leveraging cost-analysis tools to optimize performance and reduce ongoing maintenance costs.
+        - Automated Infrastructure as Code (IaC) practices for efficient management of resources in a hybrid environment, ensuring scalability, security, and operational best practices.
 
   - role: Linux Infrastructure Lead
     time: 2019 - 2022
