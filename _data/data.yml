@@ -116,11 +116,11 @@ experiences:
         - Architected high-availability solutions within cloud-based infrastructures, leveraging cost-analysis tools to optimize performance and reduce ongoing maintenance costs.
         - Automated Infrastructure as Code (IaC) practices for efficient management of resources in a hybrid environment, ensuring scalability, security, and operational best practices.
 
-  - role: Linux Cloud Engineering Lead
+  - role: Linux Cloud Engineering Lead (DevOps)
     time: 2019 - 2022
     company: Southern California Edison (TCS), Los Angeles CA
     details: |
-      As a Linux Lead, I was responsible for overseeing the deployment, configuration, and maintenance of Linux-based systems, ensuring optimal performance, security, and reliability. Key duties included leading a team of 18 Linux administrators, managing system upgrades and patches, implementing automation through scripting (e.g., Bash, Python), and troubleshooting complex system issues. The role involved designing and enforcing security protocols, handling server performance monitoring, and ensuring high availability and disaster recovery. Additionally, as the lead I had to coordinate with cross-functional teams for infrastructure planning, manages server migrations, and oversees compliance with industry standards and best practices.
+      As a Linux Lead, I was responsible for overseeing the deployment, configuration, and maintenance of Linux-based systems, ensuring optimal performance, security, and reliability. Key duties included leading a team of 18 Linux administrators, managing system upgrades and patches, implementing automation through scripting (e.g., Bash, Python), and troubleshooting complex system issues. The role involved designing and enforcing security protocols, handling server performance monitoring, ensuring high availability and disaster recovery, and integrating continuous integration/continuous deployment (CI/CD) pipelines to streamline application delivery. Additionally, as the lead, I coordinated with cross-functional teams for infrastructure planning, managed server migrations, and oversaw compliance with industry standards and best practices, while also contributing to the automation and orchestration of infrastructure as code (IaC) to improve system scalability and maintainability.
         - Engineered POC for Cloud migration projects in GCP, Azure and Aws to fully understand the infrastructure post migration.
         - Engineered hybrid model of infrastructure to support the business requirement and achieved 40% improvement in performance.
         - Coordinated with stakeholders for gathering requirement and budget planning in architecting projects.
